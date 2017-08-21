@@ -1,0 +1,23 @@
+{
+  "name": "mpredis-mq",
+  "version": "1.0.0",
+  "description": "NodeJs Message Queue module",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "redis",
+    "queue",
+    "messagequeue"
+  ],
+  "author": "Maykol Purica <puricamaykol@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^2.8.0"
+  }
+}
